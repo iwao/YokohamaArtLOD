@@ -1,0 +1,26 @@
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yafjp.org/terms/yav/1.0#Event> .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2000/01/rdf-schema#label> "横浜トリエンナーレ2008「TIME CREVASSE　タイムクレヴァス」"@ja .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2000/01/rdf-schema#label> "YOKOHAMA 2008: International Triennale of Contemporary Art TIME CREVASSE"@en .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2008-09-13T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtend> "2008-11-30T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/startDate> "2008-09-13T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/endDate> "2008-11-30T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://data.yafjp.org/resource/triennale2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yafjp.org/terms/yav/1.0#Event> .
+<http://data.yafjp.org/resource/triennale2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://data.yafjp.org/resource/triennale2005> <http://www.w3.org/2000/01/rdf-schema#label> "横浜トリエンナーレ2005「アートサーカス[日常からの跳躍]」"@ja .
+<http://data.yafjp.org/resource/triennale2005> <http://www.w3.org/2000/01/rdf-schema#label> "YOKOHAMA 2005: International Triennale of Contemporary Art Art Circus [Jumping from the Ordinary]"@en .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2005-09-28T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtend> "2005-12-18T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/startDate> "2005-09-28T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/endDate> "2005-12-18T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://data.yafjp.org/resource/triennale2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yafjp.org/terms/yav/1.0#Event> .
+<http://data.yafjp.org/resource/triennale2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://data.yafjp.org/resource/triennale2001> <http://www.w3.org/2000/01/rdf-schema#label> "横浜トリエンナーレ2001「メガ・ウェイブ―新たな総合に向けて」"@ja .
+<http://data.yafjp.org/resource/triennale2001> <http://www.w3.org/2000/01/rdf-schema#label> "YOKOHAMA 2001: International Triennale of Contemporary Art Mega Wave­ Towards a New Synthesis"@en .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtstart> "2001-09-02T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://www.w3.org/2002/12/cal/icaltzd#dtend> "2001-11-11T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/startDate> "2001-09-02T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://data.yafjp.org/resource/triennale2008> <http://schema.org/endDate> "2001-11-11T00:00:00+09:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
